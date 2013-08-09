@@ -9,7 +9,7 @@
 
 <font size="5">
 <p>Hello, this is the basic GPIO function!</p>
-<p>Connect the pin 5 from your RaspberryPi to a led to test it!</p>
+<p>Connect the pin 4 from your RaspberryPi to a led to test it!</p>
 <p><font color="red">Warning: </font> Remember to use an appropiate resistance while working with leds.</p>
 </font>
 	
